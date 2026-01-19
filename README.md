@@ -26,6 +26,6 @@ To prepare analysis on part-time employees to brief the Director prior to a meet
 
 Prepared a discussion paper of the analysis that would be suitable for a Director to use as a discussion aid in a meeting with senior executives. The discussion paper includes tables and charts that illustrate the findings.
 
-The discussion paper can be found [here](https://drive.google.com/file/d/1Ohc4BA4PSAgHPtAc8Khf2999cQs3bh8K/view?usp=sharing).
+The discussion paper can be found [here](https://drive.google.com/file/d/1uv1EjEB48HteL7JBCO8KZWl0v1gJYRWO/view?usp=sharing).
 
-The excel workbook can be found [here](https://docs.google.com/spreadsheets/d/1-r6ESLCRly98lvKi0CFnLQCMl8Ik5YMh/edit?usp=sharing&ouid=116067522156916381727&rtpof=true&sd=true).
+The excel workbook can be found [here](https://docs.google.com/spreadsheets/d/1pA0hTjCv-h9KUg7gOXUacsvL-FFD4eBW/edit?usp=sharing&ouid=102165638531054537510&rtpof=true&sd=true).
